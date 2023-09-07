@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hc2gnp514o2cr6sb/branch/main?svg=true)](https://ci.appveyor.com/project/esaukova/api-ci-esaukova/branch/main)
